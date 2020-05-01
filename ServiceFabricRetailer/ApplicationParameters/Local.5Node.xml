@@ -4,8 +4,8 @@
     <Parameter Name="GatewayFabric_ASPNETCORE_ENVIRONMENT" Value="Development" />
     <Parameter Name="GatewayFabric_InstanceCount" Value="1" />
     <Parameter Name="OrderApi_ASPNETCORE_ENVIRONMENT" Value="Development" />
-    <Parameter Name="OrderApi_InstanceCount" Value="2" />
+    <Parameter Name="OrderApi_InstanceCount" Value="3" />
     <Parameter Name="ProductApi_ASPNETCORE_ENVIRONMENT" Value="Development" />
-    <Parameter Name="ProductApi_InstanceCount" Value="2" />
+    <Parameter Name="ProductApi_InstanceCount" Value="3" />
   </Parameters>
 </Application>
